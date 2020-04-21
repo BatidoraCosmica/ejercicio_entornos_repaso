@@ -1,3 +1,4 @@
 Receta 1: Huevo frito -> otra que busques por internet
 Receta	2:	Espaguetis -> Los	hierves	y	les	echas	tomate
 Receta 3: Paella de marisco -> haces el arroz y le echas marisco
+Receta 4: Chipirones -> haces chipirones
